@@ -60,3 +60,12 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Other files
+*.swp
+*~
+*.db
+.DS_Store
+.coverage
+local_settings.py
+/static

@@ -1,0 +1,13 @@
+*.pyc
+*.swp
+*.template
+.DS_Store
+.dockerignore
+.git
+.gitignore
+dev.db
+docker-compose.yaml
+Dockerfile
+static
+LICENSE
+README.md
